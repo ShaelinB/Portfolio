@@ -1,4 +1,4 @@
-## 🎨 <a href="Baker Bomber">Baker Bomber</a>
+# 🎨 Baker Bomber
 <img src="Images/Baker Bomber Logo.png" alt="Baker Bomber Logo" width = 250>
 
 **Created:** Feb 2025
