@@ -1,6 +1,6 @@
 # Hello there!
 
-Welcome to my portfolio — feel free to look around.  
+I'm Shaelin, welcome to my portfolio — feel free to look around.  
 Below tells you a little about each project before taking a deeper dive.
 
 ---
