@@ -1,5 +1,5 @@
 # 🎮 EcoSnap
-<img src="Images/EcoSnap Logo.png" alt="Hell Done Logo" width = 250>
+<img src="Images/EcoSnap Logo.png" alt="EcoSnap Logo" width = 250>
 
 **Created:** Jan 2025 - Apr 2025
 
