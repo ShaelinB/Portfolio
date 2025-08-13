@@ -11,7 +11,7 @@ Below tells you a little about each project before taking a deeper dive.
 **Top 3 Skills Used:** 
 - Game Design & Development
 - Communication
-- Team Work
+- Teamwork
 
 **Genre:** Strategy-Based Competitive Cooking Card Game
 
