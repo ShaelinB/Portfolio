@@ -22,7 +22,7 @@
 
 **Development:** 
 
-EcoSnap was developed in Unity using C#. I was primarily responsible for the journal, UI, audio, animal behavior, animal information, and UI/art assets. To accomplish this, I programmed multiple scripts handling player input and core gameplay systems.
+EcoSnap was developed in Unity using C#. I was primarily responsible for the journal, UI, audio, animal behavior, animal information, and UI art assets. To accomplish this, I programmed multiple scripts handling player input and core gameplay systems.
 
 The journal script tracked which animals the player discovered and unlocked corresponding information, while also allowing page navigation. The UI and audio scripts managed on-screen buttons and sliders for scene/panel transitions and volume control. I collaborated with a teammate on animal behaviors. We initially scripted them manually before switching to NavMesh for more efficient movement.
 
