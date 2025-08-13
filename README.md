@@ -1,7 +1,8 @@
 # Hello there!
 
-I'm Shaelin, welcome to my portfolio — feel free to look around.  
-Below tells you a little about each project before taking a deeper dive.
+Hi, I’m Shaelin. Welcome to my portfolio! 
+
+Consider this your map screen, giving you a glimpse of each project before you explore them in depth.
 
 ---
 
