@@ -6,7 +6,7 @@ Welcome! Here you will find information about me.
 **Name:** Shaelin Brown
 
 **Contact:**
-- Email: shb3456@rit.edu or shaelinb15@gmail.com
+- Email: shaelinb15@gmail.com or shb3456@rit.edu
 - Linkedin: <a href = "https://www.linkedin.com/in/shaelin-brown/">https://www.linkedin.com/in/shaelin-brown/</a>
 
 **Education:** I am currently pursuing a Bachelor of Science in Game Design and Development at Rochester Institute of Technology, with an anticipated graduation in August 2026.
