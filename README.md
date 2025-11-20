@@ -2,7 +2,9 @@
 
 Hi, I’m Shaelin. Welcome to my portfolio! 
 
-Consider this your map screen, giving you a glimpse of each project before you explore them in depth.
+Here's a sneak peak at what I've been working on.
+
+To learn more about me take a look at the <a href="About Me">About Me</a> section.
 
 ---
 
