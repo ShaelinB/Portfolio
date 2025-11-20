@@ -1,29 +1,27 @@
-# 🎮 EcoSnap
-<img src="Images/EcoSnap Logo.png" alt="EcoSnap Logo" width = 250>
+# 🎮 Last Train Home
+<img src="Images/Logo.png" alt="EcoSnap Logo" width = 250>
 
-**Created:** Jan 2025 - Apr 2025
+**Created:** Nov 2025
 
 **Skills Used:** 
 - C#
 - Unity
+- UI/UX
 - Visual Studio
-- Krita
 - GitHub
 - Game Design & Development
 - Communication
 - Teamwork
 - Time Management
 
-**Genre:** Single-Player Exploration Game
+**Genre:** Voice Only Horror Game
 
-**Description:** Embark on a peaceful journey through the woods, where diverse wildlife awaits discovery. Use your camera to capture photos of animals, each shot adding to your personal journal. As you build your collection, unlock fascinating facts and learn more about the unique species that inhabit the land.
+**Description:** You're currently on the last train home, on your journey you encounter foes where screams or silence can save you.
 
-**Where to play:**  <a href="https://youbestbelieve.itch.io/ecosnapgfc">https://youbestbelieve.itch.io/ecosnapgfc</a>
+**Where to play:**  <a href="https://youbestbelieve.itch.io/last-train-home">https://youbestbelieve.itch.io/last-train-home</a>
 
 **Development:** 
 
-EcoSnap was developed in Unity using C#. I was primarily responsible for the journal, UI, audio, animal behavior, animal information, and UI art assets. To accomplish this, I programmed multiple scripts handling player input and core gameplay systems.
+During this project, I was the primary programmer for the game’s audio input system, UI/UX, and scene management. I developed the voice-based gameplay by capturing and analyzing microphone input, and I created the menus, sliders, and the logic that controls scene transitions and overall game progression. A significant part of my work involved learning how to implement voice-driven mechanics, since this was something I was unfamiliar with at the time. Early in development, the other programmer and I explored using an Arduino for audio input, but after researching the idea further, we realized we didn’t have the necessary components to make it possible.
 
-The journal script tracked which animals the player discovered and unlocked corresponding information, while also allowing page navigation. The UI and audio scripts managed on-screen buttons and sliders for scene/panel transitions and volume control. I collaborated with a teammate on animal behaviors. We initially scripted them manually before switching to NavMesh for more efficient movement.
-
-In addition, I researched accurate animal information and created the art assets for buttons and sliders. Through these efforts, our team successfully conveyed the 2025 Games for Change Student Challenge theme, “Nurture Yourself with Nature,” while delivering a polished and engaging experience.
+The project was created for the RIT Roll Your Fate Game Jam, where dice rolls determined the theme, genre, input, and art style. We ended up with last train home, horror, voice-only input, and hand-drawn art. After a previous game jam experience taught me the importance of scope and prioritizing quality over quantity, I applied those lessons to this project. As a result, our team designed a game that fit comfortably within the 48-hour window, giving us extra time to polish both the visuals and the gameplay systems.
