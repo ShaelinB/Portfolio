@@ -2,7 +2,9 @@
 
 Hi, I’m Shaelin. Welcome to my portfolio! 
 
-Consider this your map screen, giving you a glimpse of each project before you explore them in depth.
+Here's a sneak peak at what I've been working on.
+
+To learn more about me take a look at the <a href="About Me">About Me</a> section.
 
 ---
 
@@ -15,7 +17,8 @@ Consider this your map screen, giving you a glimpse of each project before you e
 - UI/UX
 
 **Genre:** Horror Voice Only Game
-**Description:** Your currently on the last train home, on your journey you encounter foes where screams or silence can save you.
+
+**Description:** You're currently on the last train home, on your journey you encounter foes where screams or silence can save you.
 
 **Where to play:**  <a href="https://youbestbelieve.itch.io/last-train-home">https://youbestbelieve.itch.io/last-train-home</a>
 
