@@ -15,7 +15,8 @@ Consider this your map screen, giving you a glimpse of each project before you e
 - UI/UX
 
 **Genre:** Horror Voice Only Game
-**Description:** Your currently on the last train home, on your journey you encounter foes where screams or silence can save you.
+
+**Description:** You're currently on the last train home, on your journey you encounter foes where screams or silence can save you.
 
 **Where to play:**  <a href="https://youbestbelieve.itch.io/last-train-home">https://youbestbelieve.itch.io/last-train-home</a>
 
