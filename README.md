@@ -8,6 +8,38 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
+## 🎮 <a href="Quit Dreaming">Quit Dreaming</a>
+**Created:** Aug 2025 - Dec 2025
+
+**Top 3 Skills Used:** 
+- Unreal Engine 5
+- Blueprints
+- GitHub
+
+**Genre:** Turn Based Strategy Game
+
+**Description:** Quit Dreaming is a 3D turn based strategy game where your party has to traverse a surreal and increasingly unsettling dream while fighting enemies in order to wake up. Featuring 5 playable classes, this game provides an engaging strategic experience where players must think out each move in order to win.
+
+**Where to view:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a>
+
+---
+
+## ⚡<a href="Arduino Projects">Arduino Projects</a>
+**Created:** Aug 2025 - Dec 2025
+
+**Top 3 Skills Used:** 
+- Arduino
+- C++
+- Processing
+
+**Genre:** Arduino Implementations
+
+**Description:** A variety of projects including games and automated machines.
+
+**Where to view:**  <a href="https://github.com/ShaelinB/470">https://github.com/ShaelinB/470</a>
+
+---
+
 ## 🎮 <a href="Last Train Home">Last Train Home</a>
 **Created:** Nov 2025
 
