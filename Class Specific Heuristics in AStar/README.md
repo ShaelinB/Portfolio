@@ -13,7 +13,9 @@
 
 **Where to view:**  <a href="https://www.youtube.com/watch?v=uzG55BKzncM">https://www.youtube.com/watch?v=uzG55BKzncM</a>
 
-**Development:** Using the scientific method, I examined the problem that many turn-based strategy games rely on a single heuristic for A* pathfinding, which can result in predictable enemy behavior and reduced strategic depth. To test this, I developed two controlled versions of Quit Dreaming.
+**Development:** 
+
+Using the scientific method, I examined the problem that many turn-based strategy games rely on a single heuristic for A* pathfinding, which can result in predictable enemy behavior and reduced strategic depth. To test this, I developed two controlled versions of Quit Dreaming.
 
 The first version used a single shared heuristic across all character classes, while the second version implemented class-specific heuristics designed to reflect each class’s intended behavior and movement priorities. I created a toggleable system using a boolean flag that allowed the game to switch between heuristic modes without changing other gameplay systems.
 
