@@ -8,6 +8,20 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
+## 📄 <a href="Class Specific Heuristics in A*">Research on Class Specific Heuristics in A*</a>
+**Created:** Aug 2025 - Dec 2025
+
+**Top 3 Skills Used:** 
+- Unreal Engine 5
+- Blueprints
+- Scientific Method
+
+**Genre:** Research
+
+**Description:** By implementing and testing a solution in a custom game, Quit Dreaming, it will either prove or disprove the claim that by implementing class specific heuristics to A* it increases the strategic complexity by raising its overall difficulty.
+
+---
+
 ## 🎮 <a href="Quit Dreaming">Quit Dreaming</a>
 **Created:** Aug 2025 - Dec 2025
 
