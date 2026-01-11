@@ -20,6 +20,8 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 **Description:** By implementing and testing a solution in a custom game, Quit Dreaming, it will either prove or disprove the claim that by implementing class specific heuristics to A* it increases the strategic complexity by raising its overall difficulty.
 
+**Where to view:**  <a href="https://www.youtube.com/watch?v=uzG55BKzncM">https://www.youtube.com/watch?v=uzG55BKzncM</a>
+
 ---
 
 ## 🎮 <a href="Quit Dreaming">Quit Dreaming</a>
