@@ -1,5 +1,5 @@
 # 🎮 Quit Dreaming
-<img src="Images/Logo.jpeg" alt="Quit Dreaming Logo" width = 250>
+<img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250>
 
 **Created:** Aug 2025 - Dec 2025
 
