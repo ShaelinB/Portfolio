@@ -1,29 +1,24 @@
-# 🎮 Quit Dreaming
-<img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250>
-
+## 📄 Research on Class Specific Heuristics in A*
 **Created:** Aug 2025 - Dec 2025
 
 **Skills Used:** 
 - Unreal Engine 5
 - Blueprints
+- Scientific Method
 - GitHub
-- Game Design & Development
-- Communication
-- Teamwork
-- Time Management
 
-**Genre:** Turn Based Strategy Game
+**Genre:** Research
 
-**Description:** Quit Dreaming is a 3D turn based strategy game where your party has to traverse a surreal and increasingly unsettling dream while fighting enemies in order to wake up.  Featuring 5 playable classes, this game provides an engaging strategic experience where players must think out each move in order to win. 
+**Description:** By implementing and testing a solution in a custom game, Quit Dreaming, it will either prove or disprove the claim that by implementing class specific heuristics to A* it increases the strategic complexity by raising its overall difficulty.
 
-**Where to play:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a>
+**Where to view:**  <a href="https://www.youtube.com/watch?v=uzG55BKzncM">https://www.youtube.com/watch?v=uzG55BKzncM</a>
 
-**Development:** 
+**Development** Using the scientific method, I examined the problem that many turn-based strategy games rely on a single heuristic for A* pathfinding, which can result in predictable enemy behavior and reduced strategic depth. To test this, I developed two controlled versions of Quit Dreaming.
 
-During this project, I served as the primary programmer for the game’s grid and pathfinding system, which formed the foundation for turn-based movement and combat. I also assisted with implementing combat mechanics and UI elements.
+The first version used a single shared heuristic across all character classes, while the second version implemented class-specific heuristics designed to reflect each class’s intended behavior and movement priorities. I created a toggleable system using a boolean flag that allowed the game to switch between heuristic modes without changing other gameplay systems.
 
-One of the main goals of this project was to gain experience working with Unreal Engine at a larger scale than I had previously used. While I had prior experience with Unreal, this project challenged me to think more critically about system organization, collaboration, and long-term planning.
+To evaluate the impact, I conducted a blind playtest in which participants played both versions of the game. Half of the participants played the single-heuristic version first, while the other half played the class-specific version first to reduce order bias. Player feedback and performance data were collected and analyzed to assess differences in perceived difficulty and strategic decision-making.
 
-Our team initially overscoped the project and underestimated the importance of early system integration planning. As a result, some systems were developed in isolation, which caused confusion when team members needed to work outside their assigned areas. We also believed the grid system needed to be fully completed before other features could be developed, which delayed work on combat and character systems. This approach ultimately led to combat being rushed and more simplified than originally planned.
+The results did not support the original claim. Analysis showed that because players could select a destination tile directly, characters would always reach the same end position regardless of the path taken, minimizing the impact of differing heuristics. As a result, changes in pathfinding behavior did not significantly affect gameplay complexity.
 
-Despite these challenges, the project was a valuable learning experience. I gained a deeper understanding of Unreal Engine workflows, Blueprint architecture, and the importance of clear communication and technical planning within a team. These lessons will directly inform how I approach future projects, particularly in terms of scope management and system integration.
+This outcome highlighted an important design limitation and informed potential future work. A possible extension would be to explore constrained or pattern-based movement systems, similar to chess, where path choice directly affects positioning and outcomes. Overall, the project provided valuable insight into the relationship between AI pathfinding, player agency, and perceived difficulty in strategy games.
