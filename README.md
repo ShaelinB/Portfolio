@@ -8,7 +8,7 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
-## 📄 <a href="Class Specific Heuristics in A*">Research on Class Specific Heuristics in A*</a>
+## 📄 <a href="Class Specific Heuristics in AStar">Research on Class Specific Heuristics in A*</a>
 **Created:** Aug 2025 - Dec 2025
 
 **Top 3 Skills Used:** 
