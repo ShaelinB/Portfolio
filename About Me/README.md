@@ -9,7 +9,7 @@ Welcome! Here you will find information about me.
 - Email: shaelinb15@gmail.com or shb3456@rit.edu
 - Linkedin: <a href = "https://www.linkedin.com/in/shaelin-brown/">https://www.linkedin.com/in/shaelin-brown/</a>
 
-**Education:** I am currently pursuing a Bachelor of Science in Game Design and Development at Rochester Institute of Technology, with an anticipated graduation in August 2026 and a 3.87 GPA.
+**Education:** I am currently pursuing a Bachelor of Science in Game Design and Development at Rochester Institute of Technology, with an anticipated graduation in August 2026 and a 3.84 GPA.
 
 **Technical Skills:**
 - Visual Studio
@@ -18,6 +18,7 @@ Welcome! Here you will find information about me.
 - GitHub
 - Visual Studio Code
 - Unreal Engine
+- Arduino
 - Audacity
 - Krita
 - HTML
