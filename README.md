@@ -36,7 +36,7 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 **Description:** Quit Dreaming is a 3D turn based strategy game where your party has to traverse a surreal and increasingly unsettling dream while fighting enemies in order to wake up. Featuring 5 playable classes, this game provides an engaging strategic experience where players must think out each move in order to win.
 
-**Where to view:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a>
+**Where to play:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a>
 
 ---
 
