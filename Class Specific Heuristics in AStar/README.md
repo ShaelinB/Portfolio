@@ -21,6 +21,6 @@ The first version used a single shared heuristic across all character classes, w
 
 To evaluate the impact, I conducted a blind playtest in which participants played both versions of the game. Half of the participants played the single-heuristic version first, while the other half played the class-specific version first to reduce order bias. Player feedback and performance data were collected and analyzed to assess differences in perceived difficulty and strategic decision-making.
 
-The results did not support the original claim. Analysis showed that because players could select a destination tile directly, characters would always reach the same end position regardless of the path taken, minimizing the impact of differing heuristics. As a result, changes in pathfinding behavior did not significantly affect gameplay complexity.
+The results did support the original claim. Though the new pathfinding behavior did not significantly affect gameplay complexity since characters would always reach the same end position regardless of the path taken. This minimizes the impact of differing heuristics.
 
 This outcome highlighted an important design limitation and informed potential future work. A possible extension would be to explore constrained or pattern-based movement systems, similar to chess, where path choice directly affects positioning and outcomes. Overall, the project provided valuable insight into the relationship between AI pathfinding, player agency, and perceived difficulty in strategy games.
