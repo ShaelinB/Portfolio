@@ -16,6 +16,8 @@ Recipe Finder App - An Android mobile application that lets users search and fil
 
 Branching Narrative Game (title work in progress) - A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
+Role Based Quests - Research implemented in Minecraft that will either support or not support the claim players will accept quests more if quests are given out based on their playstyle rather than just randomness.
+
 ---
 
 ## 📄 <a href="Class Specific Heuristics in AStar">Research on Class Specific Heuristics in A*</a>
