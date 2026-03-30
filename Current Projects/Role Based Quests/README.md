@@ -1,26 +1,22 @@
-## 📄 Research on Class Specific Heuristics in A*
-**Created:** Aug 2025 - Dec 2025
+## 📄 Research on Role Based Quests
+**Created:** Jan 2026 - Present
 
 **Skills Used:** 
-- Unreal Engine 5
-- Blueprints
+- Visual Studio Code
+- Problem Solving
 - Scientific Method
 - GitHub
 
 **Genre:** Research
 
-**Description:** By implementing and testing a solution in a custom game, Quit Dreaming, it will either prove or disprove the claim that by implementing class specific heuristics to A* it increases the strategic complexity by raising its overall difficulty.
+**Description:** By implementing and testing a solution in Minecraft Java Edition Version 1.21.11 using datapacks, this research will either support or not support the claim that players will accept quests more if quests are given out based on their playstyle rather than just randomness.
 
-**Where to view:**  <a href="https://www.youtube.com/watch?v=uzG55BKzncM">https://www.youtube.com/watch?v=uzG55BKzncM</a>
+<!-- **Where to view:**  <a href="demo video">demo video</a> -->
 
 **Development:** 
 
-Using the scientific method, I examined the problem that many turn-based strategy games rely on a single heuristic for A* pathfinding, which can result in predictable enemy behavior and reduced strategic depth. To test this, I developed two controlled versions of Quit Dreaming.
+Using the scientific method, I investigated how quest systems function in games that include explicit or implicit player roles. In many games, quests may not align with a player's goals or preferred playstyle, which can reduce engagement.
 
-The first version used a single shared heuristic across all character classes, while the second version implemented class-specific heuristics designed to reflect each class’s intended behavior and movement priorities. I created a toggleable system using a boolean flag that allowed the game to switch between heuristic modes without changing other gameplay systems.
+To test a potential solution, I implemented two versions of a quest system in Minecraft, chosen as a baseline because vanilla Minecraft does not include built-in quests. The first version assigned quests randomly. The second version calculated a role score based on player behavior and assigned quests that matched the player’s playstyle. Players could fall into roles such as builder, explorer, or fighter.
 
-To evaluate the impact, I conducted a blind playtest in which participants played both versions of the game. Half of the participants played the single-heuristic version first, while the other half played the class-specific version first to reduce order bias. Player feedback and performance data were collected and analyzed to assess differences in perceived difficulty and strategic decision-making.
-
-The results did support the original claim. Though the new pathfinding behavior did not significantly affect gameplay complexity since characters would always reach the same end position regardless of the path taken. This minimizes the impact of differing heuristics.
-
-This outcome highlighted an important design limitation and informed potential future work. A possible extension would be to explore constrained or pattern-based movement systems, similar to chess, where path choice directly affects positioning and outcomes. Overall, the project provided valuable insight into the relationship between AI pathfinding, player agency, and perceived difficulty in strategy games.
+To evaluate the impact of these systems, I conducted a playtest where participants experienced both versions of the quest system. Each participant was also assigned a role to follow, and I observed how frequently quests were accepted in each system.
