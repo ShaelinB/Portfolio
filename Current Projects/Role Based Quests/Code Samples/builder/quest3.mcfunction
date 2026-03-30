@@ -1,0 +1,2 @@
+execute if score @p b3quest_complete matches 0 run tellraw @p [{"text":"Quest: Mine 64 oak logs for 1 diamond pickaxe\n","color":"gold"},{"text":"[Accept]","color":"green","bold":true,click_event:{"action":"run_command",command:"/execute run function role_quests:builder/q3_accept"}},{"text":" "},{"text":"[Reject]","color":"red","bold":true,click_event:{"action":"run_command",command:"/scoreboard players set @p has_quest 0"}}]
+execute if score @p b3quest_complete matches 1 run scoreboard players set @p has_quest 0

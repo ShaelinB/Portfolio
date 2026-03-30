@@ -1,0 +1,2 @@
+execute if score @p f1quest_complete matches 0 run tellraw @p [{"text":"Quest: Kill 10 zombies for 1 shield\n","color":"gold"},{"text":"[Accept]","color":"green","bold":true,click_event:{"action":"run_command",command:"/execute run function role_quests:fighter/q1_accept"}},{"text":" "},{"text":"[Reject]","color":"red","bold":true,click_event:{"action":"run_command",command:"/scoreboard players set @p has_quest 0"}}]
+execute if score @p f1quest_complete matches 1 run scoreboard players set @p has_quest 0

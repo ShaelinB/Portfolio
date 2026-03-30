@@ -1,0 +1,2 @@
+execute if score @p e1quest_complete matches 0 run tellraw @p [{"text":"Quest: Craft an empty map for 64 bread\n","color":"gold"},{"text":"[Accept]","color":"green","bold":true,click_event:{"action":"run_command",command:"/execute run function role_quests:explorer/q1_accept"}},{"text":" "},{"text":"[Reject]","color":"red","bold":true,click_event:{"action":"run_command",command:"/scoreboard players set @p has_quest 0"}}]
+execute if score @p e1quest_complete matches 1 run scoreboard players set @p has_quest 0
