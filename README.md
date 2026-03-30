@@ -8,7 +8,7 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
-## 📄 <a href="Current Projects">Current Projects</a>
+## 📋 <a href="Current Projects">Current Projects</a>
 
 Jigsaw Wizards - A 2D roguelite where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
 
