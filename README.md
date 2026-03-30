@@ -8,6 +8,22 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
+## 📄 <a href="Current Projects">Current Projects</a>
+
+Jigsaw Wizards
+
+A 2D roguelite where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
+
+Recipe Finder App 
+
+An Android mobile application that lets users search and filter recipes from TheMealDB API by first letter, category, region, and number of results displayed.
+
+Branching Narrative Game (title work in progress)
+
+A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
+
+---
+
 ## 📄 <a href="Class Specific Heuristics in AStar">Research on Class Specific Heuristics in A*</a>
 **Created:** Aug 2025 - Dec 2025
 
