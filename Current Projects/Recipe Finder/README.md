@@ -1,29 +1,21 @@
-# 🎮 Quit Dreaming
-<img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250>
+# 📱 Recipe Finder
+<!-- <img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250> -->
 
-**Created:** Aug 2025 - Dec 2025
+**Created:** March 2026 - Present
 
 **Skills Used:** 
-- Unreal Engine 5
-- Blueprints
-- GitHub
-- Game Design & Development
-- Communication
-- Teamwork
-- Time Management
+- Dart
+- Flutter
+- Visual Studio Code
+- Github
+- Figma
 
-**Genre:** Turn Based Strategy Game
+**Genre:** Android Mobile App
 
-**Description:** Quit Dreaming is a 3D turn based strategy game where your party has to traverse a surreal and increasingly unsettling dream while fighting enemies in order to wake up.  Featuring 5 playable classes, this game provides an engaging strategic experience where players must think out each move in order to win. 
+**Description:** Recipe Finder is an app that lets users search and filter recipes from TheMealDB API by first letter, category, region, and number of results displayed.
 
-**Where to play:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a>
+<!-- **Where to play:**  <a href="link">link</a> -->
 
 **Development:** 
 
-During this project, I served as the primary programmer for the game’s grid and pathfinding system, which formed the foundation for turn-based movement and combat. I also assisted with implementing combat mechanics and UI elements.
-
-One of the main goals of this project was to gain experience working with Unreal Engine at a larger scale than I had previously used. While I had prior experience with Unreal, this project challenged me to think more critically about system organization, collaboration, and long-term planning.
-
-Our team initially overscoped the project and underestimated the importance of early system integration planning. As a result, some systems were developed in isolation, which caused confusion when team members needed to work outside their assigned areas. We also believed the grid system needed to be fully completed before other features could be developed, which delayed work on combat and character systems. This approach ultimately led to combat being rushed and more simplified than originally planned.
-
-Despite these challenges, the project was a valuable learning experience. I gained a deeper understanding of Unreal Engine workflows, Blueprint architecture, and the importance of clear communication and technical planning within a team. These lessons will directly inform how I approach future projects, particularly in terms of scope management and system integration.
+I am the sole developer and designer of this project. I created UI mockups in Figma to guide the structure and layout of the app before implementing the interface in Flutter. The app integrates TheMealDB API to dynamically retrieve recipes and includes interactive features written in Dart, such as filtering options, form validation, and saved user preferences.
