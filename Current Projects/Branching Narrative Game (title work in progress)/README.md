@@ -1,4 +1,4 @@
-# 🎮 Branching Narrative Game (title work in progress)
+# 🎮 Truthseeker
 <!-- <img src="Images/Logo.jpg" alt="Game Logo" width = 250> -->
 
 **Created:** Jan 2026 - Present
