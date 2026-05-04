@@ -12,9 +12,9 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 Jigsaw Wizards - A 2D roguelite where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
 
-Recipe Finder - An Android mobile application that lets users search and filter recipes from TheMealDB API by first letter, category, region, and number of results displayed.
+I Spy - An Android mobile game where players take pictures of an object with a certain color and score points.
 
-Branching Narrative Game (title work in progress) - A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
+Truthseeker - A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
 Role Based Quests - Research implemented in Minecraft that will either support or not support the claim players will accept quests more if quests are given out based on their playstyle rather than just randomness.
 
