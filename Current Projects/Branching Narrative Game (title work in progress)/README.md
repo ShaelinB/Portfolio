@@ -1,7 +1,6 @@
 # 🎮 Truthseeker
-<!-- <img src="Images/Logo.jpg" alt="Game Logo" width = 250> -->
 
-**Created:** Jan 2026 - Present
+**Created:** Jan 2026 - May 2026
 
 **Skills Used:** 
 - Twine  
@@ -12,7 +11,7 @@
 
 **Description:** Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
-<!-- **Where to play:**  <a href="link">link</a> -->
+**Where to play:**  <a href="https://people.rit.edu/shb3456/390/Truthseeker.html">https://people.rit.edu/shb3456/390/Truthseeker.html</a>
 
 **Development:** 
 
