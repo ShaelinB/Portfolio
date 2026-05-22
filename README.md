@@ -8,6 +8,12 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ---
 
+## 📋 <a href="Current Projects">Current Projects</a>
+
+Jigsaw Wizards - A 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
+
+---
+
 ## 🎮 <a href="Truthseeker">Truthseeker</a>
 **Created:** Jan 2026 - May 2026
 
@@ -21,14 +27,6 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 **Description:** Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
 **Where to play:**  <a href="https://people.rit.edu/shb3456/390/Truthseeker.html">https://people.rit.edu/shb3456/390/Truthseeker.html</a>
-
----
-
-## 📋 <a href="Current Projects">Current Projects</a>
-
-Jigsaw Wizards - A 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
-
-Truthseeker - A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
 ---
 
