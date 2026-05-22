@@ -1,7 +1,7 @@
 # 📱 Recipe Finder
 <!-- <img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250> -->
 
-**Created:** March 2026 - Present
+**Created:** March 2026 - May 2026
 
 **Skills Used:** 
 - Dart
@@ -14,7 +14,7 @@
 
 **Description:** I Spy is a game where players take pictures of a specified color and score points.
 
-<!-- **Where to play:**  <a href="link">link</a> -->
+**Where to view:**  <a href="https://youtube.com/shorts/KSWXoz0LRQ0">https://youtube.com/shorts/KSWXoz0LRQ0</a>
 
 **Development:** 
 
