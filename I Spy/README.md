@@ -1,4 +1,4 @@
-# 📱 Recipe Finder
+# 📱 I Spy
 <!-- <img src="Images/Logo.jpg" alt="Quit Dreaming Logo" width = 250> -->
 
 **Created:** March 2026 - May 2026
