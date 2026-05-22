@@ -1,0 +1,2061 @@
+:: StoryTitle
+Truthseeker
+
+
+:: StoryData
+{
+  "ifid": "88A8A32F-CD23-4BEF-8564-5BFE3FD2A1A0",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Scene 1.1",
+  "zoom": 1
+}
+
+
+:: \ Scene 1.3 Pt 3 {"position":"575,1450","size":"100,100"}
+//You are able to walk around Jack's room and select things//
+
+[[Book]]
+[[Picture]]
+[[Computer]]
+[[Phone]]
+[[Bed]]
+
+
+:: \ Scene 2.1 {"position":"875,1700","size":"100,100"}
+INT. TPA HQ MEETING ROOM - JUNE 12, 4373 - MORNING
+
+//You are currently in the meeting room with Alyssa and William while a TPA Officer is breifing you on today's meeting.//
+
+[TPA OFFICER 
+Agents, TPA Inteligence detected Rogue activity in the TPA Archive on June 13th, 4360.]
+
+[JACK
+Wait, June 13th, 4360? That's the day the city was attacked.]
+
+[TPA OFFICER
+Correct. The documents within the archive could compromise the agency if they fall into the wrong hands. Your mission is to ensure no Rogue escapes with any information at all cost. Do you understand?]
+
+[JACK
+But why aren't we stopping the attack from happening?]
+
+[TPA OFFICER
+I said, do you understand?]
+
+[JACK
+[[Yes]]
+[[No]]
+[[This doesn't make sense.]]
+[[... -> Scene 2.1 Choice 1]]]
+
+
+:: \ Scene 2.1 Choice 1 {"position":"1100,1825","size":"100,100"}
+//Jack remains silent.//
+
+[TPA OFFICER
+Hello? Are you listening? I asked do you understand?]
+
+[JACK
+Yes sir.]
+
+[TPA OFFICER
+Then I wish you good luck, the fate of the world depends on it.]
+
+//Alyssa pressed a button on the device around her wrist and it opens up a portal. All three step inside.//
+
+[[Next -> Scene 2.2 Pt 1]]
+
+
+:: \ Scene 2.2 Pt 1 {"position":"875,1950","size":"100,100"}
+INT. TPA HQ - JUNE 13, 4360 - MORNING
+
+//Jack, Alyssa, and William exit the portal. You are standing in the meeting room just years earlier.//
+
+[WILLIAM
+Ugh I shouldn't have eaten much for breakfast.]
+
+[ALYSSA
+I told you pancakes might've not been the best idea.]
+
+//Jack is taking in his surroundings, the meeting room looks newer and the calendar says June 13, 4360. The time is 6:00 am.// 
+
+[JACK
+Wow this is crazy. I can't believe it.]
+
+[ALYSSA
+Come on we have to get to the archives.]
+
+//Jack, Alyssa, and William rush to the archive's room. On the way there they notice the building is practically empty with only a few employees here or there.//
+
+[WILLIAM
+Do you guys think it's odd no one is in here.]
+
+[ALYSSA
+Yeah it is a bit strange but lets focus on the mission at hand.]
+
+//Jack, Alyssa, and William enter the archives room. It is circular and in the middle there is a cylinder core that contains energy. Around it is rows of books, boxes, and artifacts. There are 15 rows where 1 is the outermost row and 15 is the inner most.//
+
+[ALYSSA
+We should split up and take watch. I'll take rows 1 through 5, William you take 6 through 10, and Jack you take 11 through 15. If we see anything stop them at all cost.]
+
+[WILLIAM
+Shouldn't we see what they do first?]
+
+[ALYSSA
+You heard him this mission is extremly important. We can't fail. Now lets move.]
+
+//Jack, Alyssa, and William split up and take watch over their selected area. Jack walks along the rows as time passes. No one said anything over comms and the explosion happened around noon. It is currently 11:46 am. Jack suddenly hears a rustle. Jack presses a button on the device around his wrist and speaks into it.//
+
+[JACK
+(Over comms)
+Guys I think I hear something a few rows over.]
+
+[ALYSSA
+(Over comms)
+Ok stay alert guys. Remember we can't let them escape with anything. Jack you're the closest to them what should we do?]
+
+[JACK
+(Over comms)
+I think we should try and talk to them. Get more information out of them.]
+
+[ALYSSA
+(Over comms)
+Are you sure?]
+
+[JACK
+(Over comms)
+Yeah lets surround them first though incase they try to run.]
+
+//Jack walks closer to where he heard the noise//
+
+[WILLIAM
+(Over comms)
+We are in position]
+
+//Jack sees Alyssa and William in the distance. He signals them to move towards the source of the noise. They see a figure rustling through a box of folders.//
+
+[JACK
+Hi there, I'm Jack and this is William and Alyssa. We mean you no harm. All we ask is you leave everything where it is and come with us to answer a few questions.]
+
+//The figure stands up with a folder in his hand and turns to Jack. It is revealed he is a man who looked slightly older than Jack. He slowly walks towards Jack.//
+
+[MAN
+You think I would follow you after what you guys have done. Never.]
+
+//The man attacks Jack and rushes towards the exit.//
+
+[JACK
+Guys, he’s heading for the exit!]
+
+//Jack notices a shockwave gun in a nearby box. He grabs it and aims above the doorway.//
+
+[JACK
+Look out!]
+
+//Alyssa and William duck as the weapon fires a shockwave. Debris crashes down, blocking the exit. The man falls from the blast. The folder flies open, scattering files across the room. The man scrambles to retrieve them, but Alyssa and William grab him.//
+
+[JACK
+Hold him still! Sir, you’re coming with us. Any attempt to escape will only make things worse for you.]
+
+//The Rogue smirks, slightly amused.//
+
+[MAN
+You think you know everything, don’t you?]
+
+[JACK
+What are you talking about?]
+
+[MAN
+Do you hear that?]
+
+//Sounds of explosions echo faintly through the building.//
+
+[JACK
+Hear what?]
+
+[MAN
+The explosions, someone set them up. Someone wants you to think it’s us.]
+
+//Jack hesitates, confused.//
+
+[JACK
+I don’t understand.]
+
+[MAN
+Trust me, it will all come to light eventually.]
+
+//The man lunges for Jack’s weapon and grabs it. He fires at William and Alyssa, sending them off him. He rushes past Jack, picking up files along the way. Jack pursues, but the man reaches the core and shoots it. A crack spreads across the glass above the core, growing until it shatters. Sparks ignite papers and artifacts. Flames quickly engulf the archives. Alyssa and William are out of sight while the man opens a portal to the present.
+
+[JACK
+[[Find my friends]]
+[[Chase after the man]]]
+
+
+:: \ Scene 2.2 Pt 4 {"position":"875,2225","size":"100,100"}
+[JACK
+Alright, let’s get out of here.]
+
+//Alyssa opens the portal back to the present. Jack notices a file burning away on the floor titled June 13, 4360 Plans//
+
+[WILLIAM
+Are you coming?]
+
+//Jack steps through the portal with William and Alyssa. Flames consume the archives as they disappears into the present, all of the documents inside are lost.//
+
+[[Next -> Scene 3.1]]
+
+
+:: \ Scene 3.1 {"position":"875,2350","size":"100,100"}
+INT. TPA HQ MEETING ROOM - JUNE 12, 4373 - AFTERNOON
+
+//Jack, Alyssa, and William stumble out of the portal and are now back in the present. The TPA Officer was waiting from them. //
+
+[TPA OFFICER
+Good job on the mission. Though next time I'd reccomend just shooting him instead of igniting the whole place on fire.]
+
+[JACK
+Wait how do you know?]
+
+[TPA OFFICER
+It happened years ago and now we have a new archives room. this time it has a sprinkler system. Also, he didn't get away with any files correct?]
+
+[ALYSSA
+Jack you saw him escape did you see if he took anything?]
+
+[JACK
+(inner thoughts)
+He did, but the title I saw makes me hesitate. It doesn't seem like they realized files were taken so perhaps I should just say no.]
+
+[JACK
+Not from I can tell. Besides the ones he tried to take burned down with all the other stuff.]
+
+[TPA OFFICER
+Ok glad to hear that, otherwise we'd have a major problem on our hands. Anyways since you ended early you have the rest of the day to yourself. I'll see you first thing in the morning. Also, remember only those that have one of these devices remembers what the past was before altering the timeline. You are dismissed.]
+
+[[Next -> Scene 3.2]]
+
+
+
+
+:: \ Scene 3.2 {"position":"875,2475","size":"100,100"}
+EXT. CITY - JUNE 12 4373 - AFTERNOON
+
+//Jack, Alyssa, and William are walking outside in the city. Jack is currently dazed out thinking about everything that happened.//
+
+[WILLIAM
+Well that went well.]
+
+[ALYSSA
+Yeah good job team.]
+
+[WILLIAM
+Hey you guys want to get something to eat to celebrate?]
+
+[ALYSSA
+Sure that sounds great. Where should we go?]
+
+//Alyssa picks up on Jack's mood.//
+
+[ALYSSA
+Hey Jack, you good?]
+
+[JACK
+Oh, yeah. Sorry I was just thinking about everything.]
+
+(if: $chasedAfterMan is false)
+[
+[WILLIAM
+Hey buddy don't stress. Were safe and alive that's all that matters.]
+
+[ALYSSA
+We also made sure he didn't leave with anything.]
+]
+(else-if: $chasedAfterMan is true)
+[
+[WILLIAM
+Hey if you had any regrets it should've been leaving us to almost die. But it's no big deal, we're fine. Right Alyssa.]
+
+[ALYSSA
+Yeah just a bit bruised but nothing to bad. Also we were able to stop him from taking anything which is good.]
+]
+]
+
+[JACK
+Yeah about that...]
+
+//A hooded figure enters a dark alleyway.//
+
+[ALYSSA
+Wait did you see that?]
+
+[WILLIAM
+What?]
+
+[ALYSSA
+That guy, he has a similar build to the man we saw in the archives. He just went down that alleyway.]
+
+[WILLIAM
+That direction is downtown. Do you think he's up to something?]
+
+[ALYSSA
+Perhaps. We still don't know where the man in the archives went.]
+
+[JACK
+(inner thoughts)
+If that is the guy I need to ask him about what he meant and the file title I saw.]
+
+[JACK
+We should follow him.]
+
+(if: $alyssaFriendship is 0 and ($williamFriendship is 1 or $williamFriendship is 2))
+[
+[ALYSSA
+Jack are you sure, we still don't know who that guy is or if he has any weapons. We should just report it instead let higher ups handle it.]
+
+[JACK
+If we wait till reinforcements come in he might be long gone.]
+
+[WILLIAM
+I agree with Jack if we end up waiting we might lose him.
+
+[ALYSSA
+Alright lets go.]
+]
+(else-if: $williamFriendship is 0 and ($alyssaFriendship is 1 or $alyssaFriendship is 2))
+[
+[WILLIAM
+Jack you sure? It could've just been someone trying to get home.]
+
+[JACK
+I'm positive, it seemed like he didn't want any attention to himself.]
+
+[ALYSSA
+I agree, from what I saw he did sneak into the alleyway.]
+]
+
+[WILLIAM
+Alright lets go.]
+]
+
+//Jack, Alyssa, and William follow the hooded guy. He walks for around an hour. He ends up going downtown where the city isn't as nice or upkept as the upper east side. He is seen entering what looks like an abandoned office building.//
+
+[JACK
+Come on lets go.]
+
+//Jack, Alyssa, and William enter.//
+
+[[Next -> Scene 3.3 Pt1]]
+
+
+
+
+
+
+
+
+
+
+
+:: \ Scene 3.3 Choice 2 {"position":"1100,2725","size":"100,100"}
+//Jack stays silent. He's trying to understand all the information that is being said.//
+
+[[Next -> Scene 3.3 Pt 3]]
+
+
+:: \ Scene 3.3 Pt 3 {"position":"875,2850","size":"100,100"}
+[ELEANOR
+We figured out the TPA had plans to blow up buildings in the city to pin it on us. They wanted to give the citizens an enemy so they could have more control over them. They thought they could scare them into compliance.]
+
+[JACK
+So that's what the files are about then. It was the plans for the attack.]
+
+[ELEANOR
+Correct, the files Levi was able to recover is a map of all the bomb locations, schematics of the bombs, and the official signature of approval from Frank Bowen.]
+
+//Alyssa is in shock.//
+
+[ALYSSA
+That's my dad!]
+
+[ELEANOR
+I'm so sorry child.]
+
+//Alysaa tries to get out of Igor's grasp. Igor remains firm.//
+
+[ALYSSA
+No you must have it mistaken. My dad loves me! He loves this city! He would never hurt innocents!]
+
+//Levi shows her the file with the signature on it.//
+
+[ALYSSA
+No it must be forged! Jack you said he didn't leave with anything!]
+
+[JACK
+I'm sorry, I didn't want to mention it in the debriefing because you guys were so happy. But I promise I was going to tell you at lunch.]
+
+//Alyssa starts crying.//
+
+[ALYSSA
+No this can't be. You are liars! He'd never do this, not to me.]
+
+[WILLIAM
+I'd like to know more before putting labels on things.]
+
+[ALYSSA
+(Feeder Line)
+There's no way you believe this!)
+
+[JACK
+[[Comfort Alyssa]]
+[[Ask for more explanation.]]
+]
+
+
+:: \ Scene 3.3 Pt 4 {"position":"875,3100","size":"100,100"}
+[ELEANOR
+I know this must be hard but we are trying to make amends. The attack was hard on all of us. Trust me I was there. When we heard of the plans we had agents all over the city disguised in TPA uniforms to try and minimize the damage. I remember this boy, he was next to a building when I heard an explosion. He looked up and froze in fear. I knew I had to do something even if it meant I would die. I luckily was able to save him before it was too late. I would never forget the look of admiration he gave me. It made me realize what were doing had to be continued, no matter the costs.]
+
+//Jack is shocked.//
+
+[JACK
+I was that boy. You saved me.]
+
+[ELEANOR
+Well then it's good to see you again.]
+
+[[Next -> Scene 4.1 Pt 1]]
+
+
+:: \ Scene 3.3 Pt1 {"position":"875,2600","size":"100,100"}
+INT. ABANDONED OFFICE BUILDING - JUNE 12 4373 - AFTERNOON
+
+//Jack, Alyssa, and William enter the building, they see a staircase that goes to the basement and all the way to the top of the building.  The only light shining through is from the sun. The hooded guy is no where to be seen.//
+
+[WILLIAM
+That doesn't look up to code.]
+
+[JACK
+Alright lets split up. I'll take the basement, William you take this floor, and Alyssa take the second. If we don't find anything we'll meet back on this floor.]
+
+//The group splits off and Jack ends up going down the stairs into the basement. As he's walking the long halls he hears faint talking coming from up ahead. As he gets closer to the source of the noise he sees an enterance and what looks like a run down conference room. He hides behind a near by box. From there he can hear and see two woman and a male. The hooded man takes off the hood.//
+
+[JACK
+(inner thoughts)
+Alyssa was right, that guy was from the archives.]
+
+[WOMAN
+Did you retrieve the files Levi?]
+
+[JACK
+(inner thoughts)
+So that's what his name is.]
+
+[LEVI
+Sort of ma'am. I was intercepted by TPA Agents and was only able to recover a few. The rest ended up burning with the rest of the archives.]
+
+[WOMAN
+Hmm interesting. Violet you're positive no TPA Agents were in the archives when you did survelence runs.]
+
+//The man next to the woman talks.//
+
+[VIOLET
+Yes ma'am. Everyone was out of the building that day everytime I checked.]
+
+[WOMAN
+That means the TPA can now detect time traveling outside their organization. We must remain vigilent, especially since we have information that can take them down.]
+
+[VIOLET
+Mind me interupting ma'am but it appears we have a guest with us today.]
+
+//Someone grabs you and you two walk into the room. There you see a second entrance that's unable to be seen from your spot behind the box. There is also around 20 other people both men and women ranging from young to old scattered across the room.//
+
+[LEVI
+You! What are you doing here.]
+
+[WOMAN
+Thank you Igor for escorting our guest. You may put him down.]
+
+//Igor, a tall muscular man. puts down Jack. Jack stands and aims the device around his wrist at the woman.//
+
+[JACK
+You are under arrest for conspiring against the TPA. Anything you do or say may be used against you.]
+
+[WOMAN
+Levi this guy is funny, where did you find him?]
+
+[LEVI
+He was one of the agents at the archives which means his other two friends must be here as well.]
+
+//Igor and another walk back out of the room.//
+
+[WOMAN
+Hmm very well. What is your name child?]
+
+//Jack is still aiming the device at the woman and doesn't answer the question.//
+
+[WOMAN
+Well if your not going to cooperate I might as well tell you those devices are useless here and from the looks of it you are outnumbered.]
+
+//Jack lowers his arm.//
+
+[JACK
+How is that possible?]
+
+[WOMAN
+Jasmine here is our lead engineer and former TPA agent. Once she learned the truth she decided to use her knowledge for good. Since then she was able to remake the devices you wear for us, along with disabiling any high tech gadgets in this entire building. Including those devices you wear around your wrist.]
+
+//Igor and the other guy return with William and Alyssa in hand.//
+
+[WOMAN
+Ah more guests. Welcome.]
+
+[ALYSSA
+Let us go!]
+
+//The woman nods to Igor and the other guy, they let go of Alyssa and William.//
+
+[WILLIAM
+Jack what's happening?]
+
+[JACK
+These are the Rogues, Alyssa was right the man we followed was the man from the archives.] 
+
+[ALYSSA
+Why didn't you call for help?]
+
+[JACK
+Our devices don't work in here, something is disabiling it.]
+
+[WILLIAM
+Please let us go I don't want to die.]
+
+[WOMAN
+Die? What do you think we'll do to you?]
+
+[WILLIAM
+Aren't you going to kill us? We are TPA Agents after all and you are Rogues.]
+
+[WOMAN
+We like to call ourselves Truthseekers. Allow me to make a proper introduction, my name is Eleanor the leader of Truthseekers. Here our goal is to enlighten the citizens with the truth about the TPA.]
+
+[ALYSSA
+What truth could you possibly be talking about? You're Rogues, you lie and you kill all for your own selfish need.]
+
+[ELEANOR
+Is that what's said about us at TPA. Geez I knew they thought we were killers but liars. Very hypocritical.]
+
+//Alyssa lunged towards Eleanor but is held back by Igor.//
+
+[WILLIAM
+What do you mean?]
+
+[LEVI
+What she means is you should fact check your sources.]
+
+[ELEANOR
+Levi calm down.]
+
+[LEVI
+No I will not! I almost died getting those files! Tell them the truth so they know what's at stake!]
+
+[ELEANOR
+Very well. The TPA as you know it is the Time Preservation Agency, but to those who know the truth they are the Time Purification Agency. The TPA has been lying to you for years. They go back in time and change events that they can spin in the present for their own gain. We the Truthseekers or as you call us Rogues go back in time to try and stop them. Our earlier methods were focused on stopping the disaster. But we eventually realized they would just go back again and cause the same destruction. That's how it landed us here. Once the attack on June 13th we knew we needed to shine light on the truth. So we decided to lay low and plan. We improved technology, gathered more supporters, and upgraded our base.]
+
+[JACK
+[[Didn't you do that?]]
+[[I'm confused.]]
+[[How can I trust you?]]
+[[... -> Scene 3.3 Choice 2]]
+]
+
+
+:: \ Scene 4.1 Choice 1 {"position":"1100,3350","size":"100,100"}
+//Jack remains silent.//
+
+[ALYSSA
+That's probably one of the stupid conspiracies you've heard.]
+
+[WILLIAM
+Is not.]
+
+[[Next -> Scene 4.1 Pt 2]]
+
+
+:: \ Scene 4.1 Choice 2 {"position":"1100,3600","size":"100,100"}
+//Jack remains silent.//
+
+[ALYSSA
+How dare you say that! He is a good father who loves his community.]
+
+[WILLIAM
+I don't think a good father would kill a bunch of people but who knows.]
+
+[ELEANOR
+Alyssa, I'm sorry this is how you had to find out. I knew he had a daughter but I didn't know she was you. We had a whole plan on how we wanted to tell you. I know this isn't easy but let us help you.]
+
+[[Next -> Scene 4.1 Pt 3]]
+
+
+:: \ Scene 4.1 Pt 1 {"position":"875,3225","size":"100,100"}
+INT. ABANDONED OFFICE BUILDING - JUNE 12 4373 - AFTERNOON - CONT
+
+[WILLIAM
+Holy cow. So the conspiracies were true. You are the good guys. Jack isn't it crazy that the person who inspired you to be a TPA Agent was actually a Rogue, uh I mean Truthseeker.]
+
+[ALYSSA
+No way you actually believe this. I know you didn't read any of the books but did training teach you nothing. They're liars.]
+
+[WILLIAM
+Alyssa we just saw the files with your dad's signature on it.]
+
+[ALYSSA
+They're forged and he wouldn't do that. Also perhaps they planted the files in the archives to actually pin it on the TPA.]
+
+[WILLIAM
+That is just ridiculous, why would they go back in time for that when all they could've done is just make the files and publish them. They're telling the truth.]
+
+[ALYSSA
+(Feeder Line)
+Are you believing this too Jack?]
+
+[JACK
+[[The TPA wouldn't lie.]]
+[[Maybe this is the truth.]]
+[[Both could have truth and lies.]]
+[[... -> Scene 4.1 Choice 1]]
+]
+
+
+:: \ Scene 4.1 Pt 2 {"position":"875,3475","size":"100,100"}
+[ELEANOR
+The truth can be scary when it threatens to break down the comfort of what you believe.]
+
+[ALYSSA
+Don't listen to her. She's clearly crazy, no leader of the Rogues would actually be sane.]
+
+[WILLIAM
+And why not? Clearly your dad isn't sane if he planned the attack.]
+
+[JACK
+[[Why pin it on you?]]
+[[Show us more proof.]]
+[[Both sides could be manipulating.]]
+[[... -> Scene 4.1 Choice 2]]
+]
+
+
+:: \ Scene 4.1 Pt 3 {"position":"875,3725","size":"100,100"}
+[ALYSSA
+Well I'm leaving. I'm going straight to my father and  telling him everything.]
+
+[WILLIAM
+Well then you'll be going without me.]
+
+[ALYSSA
+What? Are you serious? You'd rather stick around with people, actually Rogues, that you just met rather than your friend.]
+
+[WILLIAM
+If my friend is willing to excuse the killing of innocents, even when there is proof. then you are not my friend.]
+
+[ALYSSA
+Ugh I didn't need you anyways. Come on Jack.]
+
+[JACK
+(feeder line) (inner thoughts)
+I know no matter what I do I have the possibility to lose a friend.]
+
+[JACK
+[[Go with Alyssa]]
+[[Stay with William]]
+]
+
+(set: $choseAlyssa to false)
+
+
+:: \ Scene 5.1 Alyssa {"position":"800,3975","size":"100,100"}
+EXT. CITY - JUNE 12 4373 - AFTERNOON - CONT
+
+[ALYSSA
+Finally we are out of that building. I will call my father immediately and tell him everything. Jack are you ok?]
+
+[JACK
+I'm not sure. On one hand I feel like I'm doing the right thing. Though on the other hand I just lost one of my closest friends.] 
+
+[ALYSSA
+You are doing the right thing and if William was our friend he'd be here with us.]
+
+[JACK
+I guess. I just want to help people.]
+
+[ALYSSA
+I know, and you are we just need to call my father before we make any plans.]
+
+[JACK
+Alright.]
+
+//Alyssa calls her father over the device.//
+
+[FRANK BOWEN
+(over speaker)
+Hello Frank Bowen speaking.]
+
+[ALYSSA
+Hi Father it's Alyssa.]
+
+[FRANK BOWEN
+(over speaker)
+Oh hi sweetie, how was your day? I heard that you did well on your mission today.]
+
+[ALYSSA
+Yeah about that a Rogue did manage to steal some files.]
+
+[FRANK BOWEN
+I'm sorry did I hear that correctly? You managed to let a Rogue escape with the files we specifically told you they couldn't have. And not only that but you lied to us that you successfully completed your mission.]
+
+[ALYSSA
+Well not exactly.]
+
+[FRANK BOWEN
+(over speaker)
+No excuses Alyssa. You know if you want to succeed in this role, especially a team leader, you must not make mistakes.]
+
+[JACK
+If you don't mind me interupting sir, this was not Alyssa's fault. I let him get away and didn't tell them he left with files. They only found out afterwards.]
+
+[FRANK BOWEN
+(over speaker)
+I see. I appreciate you coming clean but as a team leader they must take accountability for their teams failures. Alyssa if you found out earlier, why am I only receiving the call now?]
+
+[ALYSSA
+We were in the Rogues base and they were able to block our devices from doing anything.] 
+
+[FRANK BOWEN
+(over speaker)
+Of course they were. Alyssa take your team and meet me in my office immedately.]
+
+[ALYSSA
+About that we are currently one team member down.]
+
+[FRANK BOWEN
+(over speaker)
+What do you mean?]
+
+[ALYSSA
+William stayed behind.]
+
+[FRANK BOWEN
+(over speaker)
+Even he got fooled by the Rogues lies.]
+
+[ALYSSA
+Speaking of lies. They were saying some crazy stuff about you. Like you were the one to sign off on the June 13th attack. I told them that was impossible, you wouldn't do that.]
+
+[FRANK BOWEN
+(over speaker)
+Well I did.]
+
+[ALYSSA
+What? But why!]
+
+[FRANK BOWEN
+(over speaker)
+If you trust the TPA, if you trust me you'd know it's for the greater good. Now as a department head I order you and Jack to meet me in my office. There's no doubt about it they plan on attacking tomorrow.]
+
+[ALYSSA
+Yes sir.]
+
+[[Next -> Scene 5.2 Pt 1 Alyssa]]
+
+
+:: \ Scene 5.1 William {"position":"950,3975","size":"100,100"}
+INT. ABANDONED OFFICE BUILDING - JUNE 12 4373 - AFTERNOON - CONT
+
+[WILLIAM
+Should we go after her?]
+
+[ELEANOR
+No, we should leave her be.]
+
+[WILLIAM
+But she was going to tell her father everything. They will know you have evidence against them.]
+
+[ELEANOR
+They already know. Once she stepped out of the building she most likely called her father to tell him there's an emergency.]
+
+[WILLIAM
+Well then shouldn't we stop her before she explains everything.]
+
+[ELEANOR
+It will only bring more attention to ourselves. Right now we need to get you guys up to speed with our plans.] 
+
+[WILLIAM
+Very well. Jack are you ok?]
+
+[JACK
+I'm not sure. On one hand I feel like I'm doing the right thing. Though on the other hand I just lost one of my closest friends.]
+
+[ELEANOR
+I understand the struggle you are feeling but at this moment it is vital to focus especially since were making our move tomorrow.]
+
+[JACK
+Tomorrow is June 13th.]
+
+[ELEANOR
+Correct. The TPA always does a speech to honor the lives lost and to push the idea that Rogues are dangerous. Most of the city is in attendance. We figured we strike then.]
+
+[WILLIAM
+But how there will be so many TPA agents there.]
+
+[ELEANOR
+Jasmine will take control of the broadcast and connect it to our cameras. She will also upload the files and send it out to everyone.]
+
+[JASMINE
+There's only two problems with that. The first is we need to get inside the communication wing in order to connect the cameras and upload the files. The second is once we're on the broadcast the TPA will know what were doing and we will only have a short window of time before TPA agents arrive.]
+
+[JACK
+I'm assuming this is where we come into play.]
+
+[JASMINE
+Correct. Once the TPA removes you from the system you have twenty four hours until your device completely shuts off. Personally I would have the device shut off when removed but they tend to do that so agents can grab their stuff or say goodbye when leaving.]
+
+[JACK
+Interesting, but won't they know I was the one that opened the door.]
+
+[JASMINE
+For the amount of advance tech they have you'd think they'd have a system for that. But no they won't know. They will only know we're there if they see us or once were connected to the broadcast.]
+
+[ELEANOR
+I understand were asking for a lot in such a small period of time but we can build a better world.]
+
+[JACK
+All I wanted to do was help people. If this is the way to do it then I'm in.]
+
+[WILLIAM
+Same.]
+
+[ELEANOR
+Well then, welcome to the Truthseekers.]
+
+[[Next -> Scene 5.2 Pt 1 William]]
+
+
+:: \ Scene 5.2 Choice 1 {"position":"1100,4350","size":"100,100"}
+//Jack stays silent.//
+
+[[Next -> Scene 5.2 Pt 3]]
+
+
+:: \ Scene 5.2 Choice 2 {"position":"1100,4600","size":"100,100"}
+//Jack stays silent.//
+
+[JACK
+(inner thoughts)
+Why does this have to be so hard.]
+
+[[Next -> Scene 5.2 Pt 4]]
+
+
+:: \ Scene 5.2 Pt 1 Alyssa {"position":"800,4100","size":"100,100"}
+EXT. CITY - JUNE 13 4373 - NOON
+
+//Frank Bowen is about to make his speech. You, Alyssa, and other TPA agents are standing on the stage watching for Rogues. Frank Bowen appears on stage. You see William, Eleanor, and Jasmine make there way towards a side enterance.//
+
+[JACK
+(whispers to Alyssa)
+I think I spotted William and them heading for the east enterance.]
+
+[ALYSSA
+(whispers to Jack)
+Isn't that near the communication wing.]
+
+[JACK
+(whispers to Alyssa)
+Yeah why?]
+
+[ALYSSA
+(whispers to Jack)
+They are probably trying to disrupt the broadcast and distribute the files to everyone. C'mon lets go.]
+
+//Jack and Alyssa rush to the communication wing. As they approach the door they hear talking coming from inside. They rush inside the room and find Eleanor giving a speech.//
+
+[[Next -> Scene 5.2 Pt 2]]
+
+
+:: \ Scene 5.2 Pt 1 William {"position":"950,4100","size":"100,100"}
+EXT. CITY - JUNE 13 4373 - NOON
+
+//Frank Bowen is about to make his speech. Jack, William, Eleanor, and Jasmine are watching from afar. Other Truthseekers are scattered amonst the crowd in disguises.//
+
+[WILLIAM
+Is there a reason we are hiding in bushes right now? Couldn't we have also wore disguises.]
+
+[ELEANOR
+Because the TPA will recognize us immediately. We must wait till everyone is distracted to make a move.]
+
+//Frank Bowen appears on stage, the city is clapping and cheering.//
+
+[ELEANOR
+Now is our chance.]
+
+//Jack, William, Eleanor, and Jasmine run towards a side enterance. As they get up to the door Jack uses his device to unlock it. The team sprints towards the communication wing. As they enter Jasmine starts messing with wires and connects the camera. She then takes a usb that contains all the files and plugs it into the system. With the files currently uploading to the whole city Jasmine turns on the cameras.//
+
+[JASMINE
+You're all set.]
+
+[ELEANOR
+Hello there. You may not know me but I am the leader of Truthseekers or as many of you know the Rogues. We come to you with important news, we have evidence that the TPA is behind the June 13th attack. I know you have no reason to trust us but soon you will see we are not the enemy.]
+
+//Alyssa enters the room.//
+
+[[NEXT -> Scene 5.2 Pt 2]]
+
+
+:: \ Scene 5.2 Pt 2 {"position":"875,4225","size":"100,100"}
+[ALYSSA
+Freeze!]
+
+//Alyssa aims the device at Eleanor.//
+
+[JACK
+Alyssa what are you doing?]
+
+[ALYSSA
+What I should've done in the archives.]
+
+(if:$choseAlyssa is true)
+[
+[JACK
+Alyssa wait, we don't know everything yet.]
+
+[ALYSSA
+We know they're Rogues and that's enough.]
+]
+(if: $choseAlyssa is false)
+[
+[JACK
+Alyssa stop. You know this isn't right.]
+
+[ALYSSA
+Of course you'd say that. You've already made your choice.]
+]
+
+[ELEANOR
+If you truely believe we're the enemy then go ahead.]
+
+//William jumps in front of Eleanor.//
+
+[WILLIAM
+Alyssa don't do this.]
+
+[ALYSSA
+Move William!]
+
+//The upload is continuing in the background. It currently says 91%. Jack looks at Alyssa and William.//
+
+[JACK
+(feeder line) (inner thoughts)
+If I don't act now someone is going to get hurt.]
+
+[JACK
+[[Tell Alyssa to stand down.]]
+[[Tell William to move.]]
+[[Step between them.]]
+[[... -> Scene 5.2 Choice 1]]]
+
+
+:: \ Scene 5.2 Pt 3 {"position":"875,4475","size":"100,100"}
+//The tension shifts but no one dares to back down. The upload is currently at 96%.//
+
+[FRANK BOWEN
+(over speakers)
+Jack step away from the Rogues immediatelty.]
+
+//TPA agents start to fill in the room.//
+
+[FRANK BOWEN
+(over speakers)
+I asked Alyssa last night where you stand in all of this. She told me she wasn't one hundred percent sure. Perhaps you could be one of us after all. All you have to do is shut down that broadcast.]
+
+[ALYSSA
+Jack do you hear that? This is your chance to fix things and come back to us. My father said you could return to the TPA after all of this. You can live out your dream.]
+
+[WILLIAM
+Or live knowing you did the right thing.]
+
+[JACK
+(feeder line) (inner thoughts)
+I'm not sure what to do.]
+
+[JACK
+[[Follow TPA protocol.]]
+[[Trust the evidence.]]
+[[Protect everyone.]]
+[[... -> Scene 5.2 Choice 2]]]
+
+
+:: \ Scene 5.2 Pt 4 {"position":"875,4725","size":"100,100"}
+//Jack walks up to the system. The screen reads 98%, then 99%, 100%. The screen has a giant confirm and cancel button.//
+
+[JACK
+(feeder line) (inner thoughts)
+I know what I have to do but am I doing the right thing.]
+
+[JACK
+[[Hit the cancel button.]]
+[[Hit the confirm button.]]]
+
+
+:: Ask for more explanation. {"position":"950,2975","size":"100,100"}
+(set: $williamFriendship to $williamFriendship + 1)
+//William will remember that.//
+
+[JACK
+Eleanor if you're telling the truth and the evidence is real then explain everything.]
+
+[ALYSSA
+Jack! How can you believe this?]
+
+[[Next -> Scene 3.3 Pt 4]]
+
+
+:: Bed {"position":"875,1575","size":"100,100"}
+//Jack goes to sleep//
+
+[[Next -> Scene 2.1]]
+
+
+:: Book {"position":"275,1575","size":"100,100"}
+//On Jack's bookshelf is a collection of books the TPA gives you. Agent Handbook, An Agents First Mission, What to Do in Situations, etc.//
+
+[JACK
+(inner thoughts)
+We were supposed to read these during training. They were a bit boring to read but hopefully they come in handy. I remember Alyssa read all of them before the first day and I think William's are still in the wrapper.]
+
+[[Back -> Scene 1.3 Pt 3]]
+
+
+:: Both could have truth and lies. {"position":"950,3350","size":"100,100"}
+[JACK
+This just doesn't make sense at all. Though that doesn't mean either side is completely right or wrong.]
+
+[WILLIAM
+Fair.]
+
+[[Next -> Scene 4.1 Pt 2]]
+
+
+:: Both sides could be manipulating. {"position":"950,3600","size":"100,100"}
+[JACK
+Maybe the TPA changes history for their benefit, but what's to say you won't do the same thing.]
+
+[ELEANOR
+You're just going to have to trust us to do the right thing.]
+
+[[Next -> Scene 4.1 Pt 3]]
+
+
+:: Chase after the man {"position":"950,2075","size":"100,100"}
+(set: $chasedAfterMan to true)
+
+//Jack rushes after the man, determined to stop him.//
+
+//Alyssa and William will remember this choice.//
+
+//The man reaches the portal and just as Jack arrives it closes before he can enter. Jack watches helplessly.//
+
+//William and Alyssa emerge from the smoke, holding onto each other, and make their way toward Jack.//
+
+[JACK
+Hey… are you guys okay?]
+
+[ALYSSA
+Yeah, we’re fine. But you could’ve at least caught him if you weren't going to check on us!]
+
+[WILLIAM
+Yeah! We flew into a wall! Luckily it’s not too bad.]
+
+[[Next -> Scene 2.2 Pt 4]]
+
+
+:: Comfort Alyssa {"position":"800,2975","size":"100,100"}
+(set: $alyssaFriendship to $alyssaFriendship + 1)
+//Alyssa will remember that.//
+
+[JACK
+Alyssa, we don't know if this is real yet. Also, your dad deserves a chance to explain as well.]
+
+[WILLIAM
+But the evidence is right in front of us.]
+
+[[Next -> Scene 3.3 Pt 4]]
+
+
+:: Computer {"position":"575,1575","size":"100,100"}
+//On Jack's desk is a computer, on it reads the most recent news article.//
+
+[NEWS ARTICLE
+(text)
+13 Days Until June 13th. Are the Rogues Going to Strike Again?]
+
+[JACK
+(inner thoughts)
+Hopefully not. They haven't done anything as big in 13 years. Perhaps the policies that got implemented right after stopped any big threat. There still has been attacks but it's more small scaled.] 
+
+[[Back -> Scene 1.3 Pt 3]]
+
+
+:: Didn't you do that? {"position":"650,2725","size":"100,100"}
+[JACK
+Wait what do you mean after the attack on June 13th. Didn't you do that?]
+
+[LEVI
+Did you not listen to what I told you kid? Someone planted the bombs and tried to frame it on us.]
+
+[[Next -> Scene 3.3 Pt 3]]
+
+
+:: Find my friends {"position":"800,2075","size":"100,100"}
+(set: $chasedAfterMan to true)
+(set: $williamFriendship to $williamFriendship + 1)
+(set: $alyssaFriendship to $alyssaFriendship + 1)
+
+//Jack watches the man disappear into the portal, then rushes to find his friends.//
+
+//Alyssa and William will remember this.//
+
+//Jack finds Alyssa and William slumped against a wall, coughing from the smoke.//
+
+[JACK
+Are you guys okay?]
+
+[ALYSSA
+You let him go?]
+
+[JACK
+Yeah. You two are more important right now.]
+
+//William nods, still recovering from the shock.//
+
+[WILLIAM
+Thanks Jack. I appreciate it.]
+
+//Jack helps Alyssa and William to their feet, supporting them as they move away from the flames.//
+
+[[Next -> Scene 2.2 Pt 4]]
+
+
+:: Follow TPA protocol. {"position":"650,4600","size":"100,100"}
+[JACK
+There must be a reason for this system.]
+
+[WILLIAM
+But it lies.]
+
+[ALYSSA
+Exactly, we must trust it.]
+
+[[Next -> Scene 5.2 Pt 4]]
+
+
+:: Go with Alyssa {"position":"800,3850","size":"100,100"}
+(set: $choseAlyssa to true)
+(set: $alyssaFriendship to $alyssaFriendship + 1)
+
+[JACK
+I'm sorry William, but I have to do the right thing.]
+
+//William and Alyssa will remember this//
+
+[ALYSSA
+Finally someone else with common sense.]
+
+(if:$williamFriendship is 0 or $williamFriendship 1)
+[
+[WILLIAM 
+Jack how can you do this? You saw the proof and were a victim of the attack! How can you not believe this? C'mon man use your head and think!]
+
+[JACK
+I'm doing what I think is best.]
+
+[WILLIAM
+Well then, you're a monster just like the rest of them. It would've been better if you just died that day.]
+]
+(if:$williamFriendship is 2)
+[
+[WILLIAM 
+Are you sure you want to do this? I can feel an attack brewing between both sides.]
+
+[JACK
+I appreciate your concern and the time we've been friends. Though I will hold my ground and do what I think is right.]
+
+[WILLIAM
+Very well. I just thought you'd want to be on the winning side.]
+]
+(if:$williamFriendship is 3)
+[
+[WILLIAM 
+I see.]
+
+[JACK
+William again I'm sorry, but I have to do what I think is right.]
+
+[WILLIAM
+I know, you just want to help people, I guess we just have a different way of doing it.]
+
+[JACK
+Perhaps we can still be friends?]
+
+[WILLIAM
+I don't know if we can ever go back to that. Goodbye Jack.]
+]
+
+//Jack and Alyssa walk out of the room.//
+
+[[Next -> Scene 5.1 Alyssa]]
+
+
+:: Hit the cancel button. {"position":"800,4850","size":"100,100"}
+//Jack hits the cancel button. the screen turns dark.//
+
+[JASMINE
+No no no!]
+
+[WILLIAM
+Jack what did you do?]
+
+[ALYSSA
+You did the right thing Jack.]
+
+//TPA Agents rush in and restrain William, Eleanor, and Jasmine.//
+
+[ELEANOR
+I see you chose comfort over the truth. I hope you can live with that.]
+
+//The screen in the communication room cuts back to the broadcast.//
+
+[FRANK BOWEN
+Citizen, the Rogues have attempted to attack our peaceful city and spread false information once again. But thanks to our agents we remain safe and united against these evil threats.]
+
+//Jack looks at the screen scanning the crowd as they cheer for their safety. Alyssa places a hand on his shoulder.//
+
+[ALYSSA
+You did good today Jack.]
+
+//Jack doesn't responds. In the distance he sees William getting dragged away along with the other Rogues.//
+
+[JACK
+(inner thoughts)
+They're safe and that's what matters right?]
+
+//Scene 5 ends//
+
+
+:: Hit the confirm button. {"position":"950,4850","size":"100,100"}
+//Jack hits the upload button. Around the room are pings notifying people that they now have access to the files. On the screen you see security camera footage and people outside looking at the files.//
+
+[ALYSSA
+Jack what did you do?]
+
+[WILLIAM
+We told the truth.]
+
+//TPA agents are hesitant to make a move when they see on the screen the citizens reactions. Instead they run out the door hoping to escape.// 
+
+[FRANK BOWEN
+(over speakers)
+Where are you guys going? I said shut it down!]
+
+[ELEANOR
+It's too late. The truth is set free.]
+
+[FRANK BOWEN
+No this can't be. Alyssa do something.]
+
+//Alyssa frozen in shock looks at Jack and William.//
+
+[ALYSSA
+I don't even know who you are anymore.]
+
+//Alyssa runs out of the room. In the distance you can hear sirens blaring and the chants of an angry crowd. William comes and puts his hand on your shoulder.//
+
+[WILLIAM
+You did good today Jack.]
+
+//Jack doesn't responds.//
+
+[JACK
+(inner thoughts)
+I just hope this was worth it.]
+
+//Scene 5 ends//
+
+
+:: How can I trust you? {"position":"950,2725","size":"100,100"}
+[JACK
+How do I know I can trust you?]
+
+[LEVI
+We haven't killed you, yet.]
+
+[ELEANOR
+Levi! We do not kill innocents. Though he does make a point, we didn't confine or attack you. Likewise you didn't attack us, so you must want to hear what we have to say.]
+
+[JACK
+You do have me intrigued.] 
+
+[[Next -> Scene 3.3 Pt 3]]
+
+
+:: I'm confused. {"position":"800,2725","size":"100,100"}
+[JACK
+I'm so confused.]
+
+[ELEANOR
+I understand, this is a lot to take in.]
+
+[LEVI
+How about you let her finish the story. Maybe then you'll understand.]
+
+[[Next -> Scene 3.3 Pt 3]]
+
+
+:: It was a lot. {"position":"650,1325","size":"100,100"}
+[JACK
+Yeah it was a lot.]
+
+[ALYSSA
+I know sorry. I'll let you be now. Goodnight.]
+
+//Alyssa quickly rushes into her room. Afterwards Jack walks into his room.//
+
+[[Next -> Scene 1.3 Pt 3]]
+
+
+:: Maybe this is the truth. {"position":"800,3350","size":"100,100"}
+[JACK
+William is right it doesn't make sense for them to sneak into the archives multiple times to pin the attack on the TPA. Perhaps they are telling the truth.]
+
+[WILLIAM
+I agree one hundred percent.]
+
+[ALYSSA
+Are you serious.]
+
+[[Next -> Scene 4.1 Pt 2]]
+
+
+:: No {"position":"800,1825","size":"100,100"}
+[JACK
+No, we should be out there protecting people rather than information.]
+
+[TPA OFFICER
+Are you questioning my authority? Because if you are I have no problem kicking you out of the program and having someone more disciplined take your place.]
+
+(if:$williamFriendship is 1)
+[
+[WILLIAM 
+(Whispers to Jack)
+Look, I'm sure if there's time after the mission we can go try and prevent the attack. You know I'd want to help too.]
+]
+(if:$alyssaFriendship is 1)
+[
+[ALYSSA
+(Whispers to Jack)
+Listen, you can't help people if you're kicked out of the program.]
+]
+(if: $williamFriendship is 1 or $alyssaFriendship is 1)
+[
+[JACK
+Yeah that makes sense.]
+]
+
+[TPA OFFICER
+Hello? Are you even listening?]
+
+[JACK,
+Yes sir and I apologize for stepping out of line. ]
+
+[TPA OFFICER
+Good. Then I wish you good luck, the fate of the world depends on it.]
+
+//Alyssa pressed a button on the device around her wrist and it opens up a portal. All three step inside.//
+
+[[Next -> Scene 2.2 Pt 1]]
+
+
+
+:: Perhaps. {"position":"650,1075","size":"100,100"}
+(set: $williamFriendship to $williamFriendship + 1)
+
+[JACK
+Perhaps, we might not have clearance to everything yet since we didn't even have our first mission. Though what you're saying are just rumors.]
+
+[WILLIAM
+See it makes sense.]
+
+[JACK
+Though again it's still just rumors.]
+
+[WILLIAM
+Perhaps.]
+
+[[Next ->Scene 1.3 Pt 2]]
+
+
+:: Phone {"position":"725,1575","size":"100,100"}
+//Jack takes his phone and looks at his texts.//
+
+[JACK'S MOM
+(text)
+Good luck tomorrow.]
+
+[JACK'S DAD
+(text)
+You got this kiddo.]
+
+[JACK
+(inner thoughts) 
+That's nice. Mom and Dad were always so supportive of me.]
+
+//Jack types a response back into the phone//
+
+[JACK
+(text)
+Thanks guys love you]
+
+[JACK's MOM
+(text)
+We love you too.]
+
+[JACK
+(inner thoughts)
+It's crazy this might be the last day I use my phone. TPA agents get a device that is used for practically everything. Time travel, shooting, communication, ooh I wonder if I can order food on it.]
+
+[[Back -> Scene 1.3 Pt 3]]
+
+
+:: Picture {"position":"425,1575","size":"100,100"}
+//There is a team photo of Alyssa, William, and Jack in TPA uniforms after they completed the initial training.//
+
+[JACK
+(inner thoughts)
+Can't believe this was a few months ago.  I remember meeting them for the first time. Alyssa was all serious while William was just smiling and laughing the whole time.  I really am glad we're a team. 
+
+[[Back -> Scene 1.3 Pt 3]]
+
+
+:: Protect everyone. {"position":"950,4600","size":"100,100"}
+[JACK
+I don't care who's right, no one else is getting hurt today.]
+
+[WILLIAM
+Then you know what to do.]
+
+[ALYSSA
+End this now!]
+
+[[Next -> Scene 5.2 Pt 4]]
+
+
+:: Scene 1.1 {"position":"575,700","size":"100,100"}
+EXT. CITY - JUNE 13, 4360 - NOON
+
+//You (JACK) are outside taking a walk with your mom. It's sunny and people are out and about enjoying their day. You suddenly hear a loud boom ring out. People stopped what they were doing unsure of what they heard. Eventually more booms erupted, in the distance people could see skyscrappers collapsing to the ground. An announcement echoes through the city that the Rogues are blowing up buildings and to take cover. //
+
+[ANNOUNCER
+Attention we have an urgent announcement. The Rogues are attacking, take cover and watch out for exploding buildings. I repeat the Rogues are attacking, take cover and watch out for exploding buildings.]
+
+//People start to panic and run//
+
+[CIVILIANS
+(screams)]
+
+//Your mom grabs you by your arm urging you to hurry.//
+
+[JACK'S MOM
+Jack come on we have to go.]
+
+//Due to the massive crowd you and your mom are seperated.//
+
+[JACK'S MOM
+Jack where are you? Jack!]
+
+[JACK
+Mom!]
+
+//The destruction is getting closer to you. You run as fast as you can but you hear a boom and you look up and see a building collapsing projected to land on you. Frozen with fear you feel someone grab you and bring you into safety. You look up to see a woman in a blue and white outfit. She's able to reunite you with your mother.//
+
+[JACK'S MOM
+Oh Jack there you are. Thank you so much for saving him.]
+
+//Your mom gives you a big hug.//
+
+[MYSTERY LADY
+Yeah of course, it's best you guys get home now and stay safe.]
+
+//The woman leaves to go back into battle.//
+
+[JACK'S MOM
+Thanks again.  Alright Jack lets head home and make sure to stay close to me.]
+
+//The two of them walk through the city to make their way home and the scene ends//
+
+[[Next->Scene 1.2]]
+
+
+:: Scene 1.2 {"position":"575,825","size":"100,100"}
+INT. HOME - JUNE 13, 4360 - AFTERNOON
+
+//After the events that just happened, you and your mom walk back home. You enter the door and there stands your dad anxiously awaiting your arrival. You give him hug.//
+
+[JACK'S DAD
+Oh there you two are, I was so worried for you. I heard the announcent and I thought]
+
+[JACK'S MOM
+I know but me and Jack are ok. Some woman saved Jack.]
+
+//You hear the parents talking in the background but you head into the living room where the news is on. On the TV you see a person that has the same outfit on as the woman who saved you.//
+
+[NEWS PERSON
+Today we experience an event that will change history. Thousands of people died and several buildings were destroyed but if it wasn't for the Time Preservation Agency (TPA) stopping the Rogues then the number would be higher.]
+
+//Your parents walk into the living room and you point towards the TV//
+
+[JACK
+I gonna be one of them when I grow up.]
+
+[[Next->Scene 1.3 Pt 1]]
+
+
+:: Scene 1.3 Choice 1 {"position":"800,1075","size":"100,100"}
+//Jack remains silent.//
+
+[WILLIAM
+Jack you good?]
+
+[JACK
+Yeah I was just thinking about what you said. And to be honest I'm not entirely sure what to think.]
+
+[[Next ->Scene 1.3 Pt 2]]
+
+
+:: Scene 1.3 Choice 2 {"position":"800,1325","size":"100,100"}
+//Jack remains silent.//
+
+[ALYSSA
+Ok well I'm gonna go to bed now. Goodnight Jack.]
+
+//Alyssa enters her room. Afterwards Jack walks into his room.//
+
+[[Next -> Scene 1.3 Pt 3]]
+
+
+:: Scene 1.3 Pt 1 {"position":"575,950","size":"100,100"}
+INT. TPA HQ - JUNE 11, 4373 - EVENING
+
+//You are currently 18. You got into the TPA like you always wanted and for the months prior to now you've been training. You are currently relaxing with your teammates anxiously awaiting the next day.//
+
+[WILLIAM
+Can you believe we get to go on our first mission tomorrow.]
+
+[JACK
+I can't wait. I've been dreaming of this ever since I was little.]
+
+[ALYSSA
+Oh we know. You always say how some TPA agent saved you and that inspired you to be one of them.]
+
+[WILLIAM
+(whispers to Jack) Oh ignore her, you know the only reason she got this job is because her dad works for the government.]
+
+[ALYSSA
+I can hear you. And for a matter of fact I got this job out of pure dedication and hardwork. I run circles around you two at training.]
+
+[WILLIAM
+Relax I was just joking. I can't have you be mad at me otherwise you might leave me in the past tomorrow. Anyways Jack are you nervous?]
+
+[JACK
+A little, I just want to be able to help people.]
+
+[ALYSSA
+Don't be nervous, you're more prepared then William is. He still hasn't picked up his uniform yet.]
+
+[WILLIAM
+I've been busy.]
+
+[ALYSSA
+Doing what? You've been talking for the past hour while I was making dinner for us. It'll be done in thirty minutes why don't you pick it up now.]
+
+[WILLIAM
+And make me walk all alone. What if a Rogue tries to attack me?]
+
+//Alyssa rolls her eyes//
+
+[JACK
+I'll go with William, I might need to protect him from any threats.]
+
+[ALYSSA
+Alright, dinner should be ready the time you get back.]
+
+//Jack and William leave the apartment and walk down the halls of the HQ to get to the outfit department.//
+
+[WILLIAM
+Thanks for coming with me.]
+
+[JACK
+Yeah no worries.] 
+
+[WILLIAM
+Did Alyssa seem a little bit off?]
+
+[JACK
+She's probably just stressed about tomorrow. Speaking of tomorrow how are you feeling?]
+
+[WILLIAM
+I feel fine. Excited actually. I always wanted to do something that could help people and now I can.]
+
+[JACK
+Yeah I feel the same way. Do you think we'll encounter any Rogues?]
+
+[WILLIAM
+I'm not sure. You know I heard rumors that they actually help people. Isn't that crazy? I mean sure they're actions don't look like they do, but what if they actually are and to them we're the bad guys.]
+
+[WILLIAM
+(feeder line)
+Jack what do you think about that?]
+
+[JACK
+[[Seriously, how could you.]]
+[[There's no way.]]
+[[Perhaps.]]
+[[... ->Scene 1.3 Choice 1]]]
+
+(set: $williamFriendship to 0)
+
+
+:: Scene 1.3 Pt 2 {"position":"575,1200","size":"100,100"}
+[WILLIAM
+Oh look we're here.]
+
+//Jack and William walk up to the counter where a woman is sitting//
+
+[WILLIAM
+Hi, one uniform for William please.]
+
+[WOMAN
+There's many Williams here can you be more specific.]
+
+[WILLIAM
+Bradford. William Bradford.]
+
+//The woman types the name into the computer//
+
+[WOMEN
+Ah yes, it was supposed to be picked up last week. Let's see it should be around here somewhere.]
+
+//The woman gets up and looks around the office for the uniform. She finds it and hands it to William//
+
+[WOMEN
+Here you go and next time try not to be late.]
+
+[WILLIAM
+Thank you and I'll try.]
+
+//Jack and William walk back to their apartment//
+
+[JACK
+Why did you not come with me and Alyssa to pick up uniforms?]
+
+[WILLIAM
+I had to help my parents out. When we were in training they got laid off so they were low on money. They ended up selling the house and moving into a smaller one. I was helping them settle in since we had the weekend off.] 
+
+[JACK
+I'm so sorry man. I didn't mean to pry.]
+
+[WILLIAM
+Oh it's fine, I trust you.]
+
+[JACK
+You said your parents were laid off, what did they do?]
+
+[WILLIAM
+They worked at an engineering company out in the suburbs. They helped design some of the infrastruture there. Though because most funding for projects is given to the city the company didn't have enough money to pay all the staff.]
+
+[JACK
+Why isn't money given to the suburbs?]
+
+[WILLIAM
+Because the most important people live here. Out there people aren't as technically advanced or even thriving, and the only reason I know this is because I lived there.] 
+
+[JACK
+You're not from the city?]
+
+[WILLIAM
+I lived out in the suburbs. Luckily one of the better ones but so many are in a bad state. It's not what it used to be. The government makes sure those that live in the city are unaware of the outside towns and what happens within them. You know my parents were never big on time travel. They think it's done more harm than good. Which I don't blame them, there's been so many attacks outside the city that most people don't know about because the governent pushed them under a rug so people didn't panic.]
+
+[JACK
+I'm sorry man. Do you need any help?]
+
+[WILLIAM
+Please don't pity us Jack, my family is strong, we can overcome anything. Despite the circumstances my family is successful.]
+
+[JACK
+Ok sorry.]
+
+[WILLIAM
+It's ok, I understand you just care and want to help. I mentioned before I'm excited to help people, but I want to help everyone not just those that live here. Well it looks like we're back.]
+
+//William and Jack arrive at the door to their apartment and open the door. Alyssa is putting the food on the table as they walk in.//
+
+[ALYSSA
+Hey just in time, foods ready. We have a big day tomorrow so we need to be in our best shape]
+
+//Everyone sits down at the table and eats.//
+
+[JACK
+Thanks Alyssa.]
+
+[WILLIAM
+(says this with food in his mouth)
+Yeah thanks, mhmm this is so good.
+
+//The group falls into silence and finishes up their dinner. William goes to his room while Alyssa and Jack are cleaning up.//
+
+[ALYSSA
+Do you guys really think I don't deserve to be here? I thought we were a good team.]
+
+[JACK
+Hold on are you still upset by what William said?]
+
+[ALYSSA
+Possibly.]
+
+[JACK
+You know he was joking. If anyone deserved to be here it's you.]
+
+[ALYSSA
+Thanks you deserve it as well and sorry about what I said earlier.] 
+
+[JACK
+What do you mean?]
+
+[ALYSSA
+I meant not everyone is as lucky as you and can live out their dream.]
+
+[JACK
+Is this not what you want?]
+
+[ALYSSA
+Yes, no, I don't know! My father always wanted me to be a TPA agent. He said it can lead you to a successful future.]
+
+[JACK
+Don't you already have a successful future.]
+
+[ALYSSA
+Not in my father's eyes. He believes success is perfection and power. You know he was a TPA agent before he became Head of the Procedures and Policy Department for the TPA. Now he's trying to get me ready to take his place so he can be the head of the entire TPA. A lot of the time it's overwhelming and you guys are the only people that seem to genuinely care about me. Which is why I get upset when you think I don't deserve to be here because I do try.]
+
+[JACK
+I don't mean to pry but if you weren't a TPA Agent what would you want to do?]
+
+[ALYSSA
+I'm not sure, when I was little I wanted to be a doctor. But not the robot kind we have now. Like a person doctor. Father used to take me to the History Museum when I was little. He always said how important it is for us to advance and to have order so society may thrive. Though I would always spend the most time in the medical section. I don't know why, it just always interested me.]
+
+[JACK
+Well I guess I know who to go to if the robots shut down.]
+
+[ALYSSA
+I don't know about that. I'm not a trained professional.]
+
+[JACK
+I'm sure with enough practice you'd figure it out. Besides it's not to late to try something new.]
+
+[ALYSSA
+Yeah I suppose so. I just don't want to let him down. He has worked so hard and because of that he's now in the position he's in. My mother tried to give me a normal life but after she died my father became so focused on keeping up the legacy. I think it's because I was the only part of her left and he wanted her to be remembered for her greatness.]
+
+[JACK
+Oh I'm so sorry, I didn't know.]
+
+[ALYSSA
+Why would you. Besides it happened when I was really young. I can barely remember her. Anyways after she died, father started training me to get into the TPA program. And as you can see he was successful.]
+
+[ALYSSA
+(Feeder Line)
+I know that was a lot. Sorry for dumping all that on you.]
+
+[JACK
+[[You do belong.]]
+[[You don't belong.]]
+[[It was a lot.]]
+[[ ... ->Scene 1.3 Choice 2]]]
+
+
+(set: $alyssaFriendship to 0)
+
+
+:: Seriously, how could you. {"position":"350,1075","size":"100,100"}
+[JACK 
+Don't tell me you seriously believe that. I almost died from one of their attacks. Trust me they don't help people.]
+
+[WILLIAM
+And neither do the TPA. You can trust me on that.]
+
+[JACK
+What do you mean?]
+
+[[Next ->Scene 1.3 Pt 2]]
+
+
+:: Show us more proof. {"position":"800,3600","size":"100,100"}
+[JACK
+If you are telling the truth do you have more evidence to back up your claims?]
+
+[ELEANOR
+Yes and we intend to show you everything. Once we know what side you're on.]
+
+[[Next -> Scene 4.1 Pt 3]]
+
+
+
+:: Stay with William {"position":"950,3850","size":"100,100"}
+(set: $choseAlyssa to false)
+(set: $williamFriendship to $williamFriendship + 1)
+
+[JACK
+I'm sorry Alyssa, but I have to do the right thing.]
+
+//Alyssa and William will remember this//
+
+[WILLIAM
+It's good to be on the same page.]
+
+(if:$alyssaFriendship is 0 or $alyssaFriendship is 1)
+[
+[ALYSSA
+How could you! You were my friend! Though I see now why you looked up to her when she saved you. Because you're weak and you'll fall for whatever they feed into your ears. The TPA gave you an opportunity to be great but you just threw it all away. Are you happy this is what you worked for all your life?]
+
+[JACK
+If it means I'm helping people then yes.]
+
+[ALYSSA
+I hate you!]
+]
+(if:$alyssaFriendship is 2)
+[
+[ALYSSA 
+If I were you I'd run while you have the chance. After I tell my father about this he will hunt every Rogue and sympathizer down until you are all gone.]
+
+[JACK
+I appreciate the warning and the time we've been friends. Though I will hold my ground and do what I think is right.]
+
+[ALYSSA
+Very well. Don't say I didn't warn you.]
+]
+(if:$alyssaFriendship is 3)
+[
+[ALYSSA
+I see.]
+
+[JACK
+Alyssa again I'm sorry, but I have to do what I think is right.]
+
+[ALYSSA
+I know, you just want to help people, I guess we just have a different way of doing it.]
+
+[JACK
+Perhaps we can still be friends?]
+
+[ALYSSA
+I don't know if we can ever go back to that. Goodbye Jack.]
+]
+
+//Alyssa walks out of the room.//
+
+[[Next -> Scene 5.1 William]]
+
+
+:: Step between them. {"position":"950,4350","size":"100,100"}
+//Jack stands inbetween Alyssa and William.//
+
+[JACK
+Enough. We are not killing each other. We were all friends.]
+
+[WILLIAM
+We were.]
+
+[ALYSSA
+Not anymore.]
+
+[JACK
+You say that though I know you guys still care for another.]
+
+[[Next -> Scene 5.2 Pt 3]]
+
+
+:: Tell Alyssa to stand down. {"position":"650,4350","size":"100,100"}
+[JACK
+Alyssa stand down.]
+
+(if:$choseAlyssa is true)
+[
+[ALYSSA
+But they're criminals Jack.]
+
+[JACK
+Yeah but shooting them won't prove that. It only makes us look like the bad guys.]
+]
+(if: $choseAlyssa is false)
+[
+[ALYSSA
+Why should I, you made your choice and I'm only following orders.]
+
+[JACK
+Because you still care.]
+]
+
+[[Next -> Scene 5.2 Pt 3]]
+
+
+:: Tell William to move. {"position":"800,4350","size":"100,100"}
+[JACK
+William move.]
+
+(if:$choseAlyssa is true)
+[
+[WILLIAM
+I'm not letting you kill her.]
+
+[ELEANOR
+If they killed me it'd only make it worse for them. Don't forget we are live.]
+]
+(if: $choseAlyssa is false)
+[
+[WILLIAM
+But they'll kill her.]
+
+[JACK
+It would look bad for them if they did.]
+]
+
+[[Next -> Scene 5.2 Pt 3]]
+
+
+:: The TPA wouldn't lie. {"position":"650,3350","size":"100,100"}
+[JACK
+The TPA has protected us from threats so why should we trust you.]
+
+[ALYSSA
+Exactly, why would they murder thousands when their job is to preserve peace.]
+
+[[Next -> Scene 4.1 Pt 2]]
+
+
+:: There's no way. {"position":"500,1075","size":"100,100"}
+[JACK
+There's no way. Why would the TPA even lie to us? They know we're on their side.]
+
+[WILLIAM
+I don't know maybe for control. We have only been here for a few months. Makes sense that they don't tell us everything.]
+
+
+[[Next ->Scene 1.3 Pt 2]]
+
+
+:: This doesn't make sense. {"position":"950,1825","size":"100,100"}
+[JACK
+This doesn't make sense. How is information more important than human lives?]
+
+[WILLIAM
+Yeah he does make a good point. Why would the files compromise us? Surely they can't be that important.]
+
+[ALYSSA
+Can you guys just shut up.]
+
+[TPA OFFICER
+Quiet! If you're questioning our methodology then perhaps you should not be in this program. So I'll ask you one more time. Do you understand the mission?]
+
+[JACK, WILLIAM, ALYSSA
+(in unison)
+Yes sir.]
+
+[TPA OFFICER
+Then I wish you good luck, the fate of the world depends on it.]
+
+//Alyssa pressed a button on the device around her wrist and it opens up a portal. All three step inside.//
+
+[[Next -> Scene 2.2 Pt 1]]
+
+
+:: Trust the evidence. {"position":"800,4600","size":"100,100"}
+[JACK
+I have seen the evidence and I just can't ignore that.]
+
+[ALYSSA
+You're being manipulated.]
+
+[WILLIAM
+No he's realizing the truth.]
+
+[[Next -> Scene 5.2 Pt 4]]
+
+
+:: Why pin it on you? {"position":"650,3600","size":"100,100"}
+[JACK
+Why pin the event on you? Couldn't they have just killed people and then forced them into complience with fear.]
+
+[ELEANOR
+There would be less resistance towards them if the citizen all had a common enemy to blame. If they just used fear people would start revolting a lot sooner and stronger. And for them that is not good.]
+
+[[Next -> Scene 4.1 Pt 3]]
+
+
+:: Yes {"position":"650,1825","size":"100,100"}
+[JACK
+Yes sir.]
+
+[TPA OFFICER
+Good I'm glad were on the same page. In that case I wish you good luck, the fate of the world depends on it.]
+
+//Alyssa pressed a button on the device around her wrist and it opens up a portal. All three step inside.//
+
+[[Next -> Scene 2.2 Pt 1]]
+
+
+
+:: You do belong. {"position":"350,1325","size":"100,100"}
+(set: $alyssaFriendship to $alyssaFriendship + 1)
+
+[JACK
+Hey there's no need to apologize. Me and William love having you apart of the team. And don't forget it's your success as well. Sure your Dad helped you get the resources needed but you're the one who put in the hard work.]
+
+[ALYSSA
+Thanks Jack I really appreciate you listening to me and for saying that as well.]
+
+[JACK
+Of course. If you need anything I'm here.]
+
+[ALYSSA
+Alright sounds good. Well I'm gonna go to bed now. Goodnight Jack.]
+
+[JACK
+Goodnight.]
+
+//Alyssa enters her room. Afterwards Jack walks into his room.//
+
+[[Next -> Scene 1.3 Pt 3]]
+
+
+:: You don't belong. {"position":"500,1325","size":"100,100"}
+[JACK
+I mean no offense but William did make a valid point. If your Dad didn't work in the government would you really be here right now? I mean sure you could've worked hard like the rest of us but trust me it isn't as easy as throwing money their way.]
+
+[ALYSSA
+Look I know I had it easier than you two but if I didn't work as hard as I did I wouldn't be in the program. Money and power can only do so much.]
+
+[JACK
+It's still an edge over us.]
+
+[ALYSSA
+Ugh I'm going to bed.]
+
+//Alyssa walks into her room and slams the door.. Afterwards Jack walks into his room.//
+
+[[Next -> Scene 1.3 Pt 3]]
