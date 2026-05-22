@@ -10,13 +10,41 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 ## 📋 <a href="Current Projects">Current Projects</a>
 
-Jigsaw Wizards - A 2D roguelite where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
-
-I Spy - An Android mobile game where players take pictures of an object with a certain color and score points.
+Jigsaw Wizards - A 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
 
 Truthseeker - A text-based choose-your-own-adventure game built in Twine. Players take on the role of Jack, a time traveler uncovering the truth behind events they once believed were true.
 
-Role Based Quests - Research implemented in Minecraft that will either support or not support the claim players will accept quests more if quests are given out based on their playstyle rather than just randomness.
+---
+
+## 📄 <a href="Role Based Quests">Role Based Quests</a>
+**Created:** Jan 2026 - May 2026
+
+**Top 3 Skills Used:** 
+- Visual Studio Code
+- Problem Solving
+- Scientific Method
+
+**Genre:** Research
+
+**Description:** By implementing and testing a solution in Minecraft Java Edition Version 1.21.11 using datapacks, this research will either support or not support the claim that players will accept quests more if quests are given out based on their playstyle rather than just randomness.
+
+**Where to view:**  <a href="https://youtu.be/_lXpU1tLUUw">https://youtu.be/_lXpU1tLUUw</a>
+
+---
+
+## 📱 <a href="I Spy">I Spy</a>
+**Created:** March 2026 - May 2026
+
+**Top 3 Skills Used:** 
+- Dart
+- Flutter
+- Visual Studio Code
+
+**Genre:** Arcade Android Game
+
+**Description:** I Spy is a game where players take pictures of a specified color and score points.
+
+**Where to view:**  <a href="https://youtube.com/shorts/KSWXoz0LRQ0">https://youtube.com/shorts/KSWXoz0LRQ0</a>
 
 ---
 
