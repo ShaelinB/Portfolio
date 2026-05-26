@@ -7,15 +7,16 @@
 - Creative Thinking
 - Collaboration
 - Figma
+- Narrative Design
 - Piskel
 - Trello
 
-**Genre:** Roguelite
+**Genre:** Roguelike
 
-**Description:** Jigsaw Wizards is a 2D roguelite where players assemble puzzle pieces to form spells used to battle enemy wizards.
+**Description:** Jigsaw Wizards is a 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards.
 
 <!-- **Where to play:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a> -->
 
 **Development:** 
 
-I am one of the designers on the team. My contributions include designing the moment-to-moment, creating UI mockups, producing static pixel art assets, and developing core game mechanics.
+As one of the lead designers on the project, I help shape both the game’s core systems and overall player experience. My contributions include designing the moment-to-moment gameplay loop, developing gameplay mechanics, creating UI mockups in Figma, producing pixel art assets, and balancing systems through iterative playtesting. I also contribute to the game’s narrative direction, helping align its world and characters with the experimental spell-building mechanics.
