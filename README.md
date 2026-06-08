@@ -12,6 +12,8 @@ To learn more about me take a look at the <a href="About Me">About Me</a> sectio
 
 Jigsaw Wizards - A 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards. Different piece combinations create unique spell effects, encouraging strategic deck-building and experimentation.
 
+Where to play: <a href="https://youbestbelieve.itch.io/jigsaw-wizards-demo">https://youbestbelieve.itch.io/jigsaw-wizards-demo (most recent build)</a>
+
 ---
 
 ## 🎮 <a href="Truthseeker">Truthseeker</a>
