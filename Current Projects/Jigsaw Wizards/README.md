@@ -15,7 +15,7 @@
 
 **Description:** Jigsaw Wizards is a 2D roguelike where players assemble puzzle pieces to form spells used to battle enemy wizards.
 
-<!-- **Where to play:**  <a href="https://thefishtacos.itch.io/quitdreaming">https://thefishtacos.itch.io/quitdreaming</a> -->
+**Where to play:**  <a href="https://youbestbelieve.itch.io/jigsaw-wizards-demo">https://youbestbelieve.itch.io/jigsaw-wizards-demo (most recent build)</a>
 
 **Development:** 
 
