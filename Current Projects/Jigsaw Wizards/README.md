@@ -21,4 +21,4 @@
 
 **Development:** 
 
-As one of the lead designers on the project, I help shape both the game’s core systems and overall player experience. My contributions include designing the moment-to-moment gameplay loop, developing gameplay mechanics, creating UI mockups in Figma, producing pixel art assets, and balancing systems through iterative playtesting. I also contribute to the game’s narrative direction, helping align its world and characters with the gane's mechanics to improve immersion and replayability.
+As one of the lead designers on the project, I help shape both the game’s core systems and overall player experience. My contributions include designing the moment-to-moment gameplay loop, developing gameplay mechanics, creating UI mockups in Figma, producing pixel art assets, and balancing systems through iterative playtesting. I also contribute to the game’s narrative direction, helping align its world and characters with the game's mechanics to improve immersion and replayability.
